@@ -458,7 +458,7 @@ wheels = [
 ]
 
 [[package]]
-name = "fraud-detection"
+name = "fraud-prediction"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

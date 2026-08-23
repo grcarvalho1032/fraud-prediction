@@ -1,5 +1,5 @@
 [project]
-name = "fraud-detection"
+name = "fraud-prediction"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-fraud-detection = "fraud_detection:main"
+fraud-prediction = "fraud_prediction:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
